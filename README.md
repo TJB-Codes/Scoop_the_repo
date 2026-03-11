@@ -1,3 +1,7 @@
 # Read Me
 
-## Don't bother
+## Actually do bother.
+
+*Thanks for reading.*
+
+**That is all.**
